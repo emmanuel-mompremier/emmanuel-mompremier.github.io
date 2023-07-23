@@ -14,20 +14,25 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Desh Raj
+title: Emmanuel Anios Fils Mompremier
 
 # Short description of your site
-description: Personal Website
+description: Portfolio
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Publications: "publications"
-  Blog: "blog"
-  Talks: "talks"
-  Resume: "resume"
+  Projects: ""
+  Writings: ""
+  MISC: ""
+  CV: ""
+  BIO: ""
+  #Home: ""
+  #Publications: "publications"
+  #Blog: "blog"
+  #Talks: "talks"
+  #Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,7 +47,7 @@ avatar: "/static/img/desh_new.jpeg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Desh Raj
+  name: Emmanuel AF Mompremier
   email: "draj@cs.jhu.edu"
   github: desh2608    # eg. daattali
   linkedin: rdesh26
@@ -79,10 +84,10 @@ url-pretty: "emmanuelmompremier.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "desh2608-github-io"
+#disqus: "desh2608-github-io"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-121781547-1"
+#google_analytics: "UA-121781547-1"
 
 # Google Tag Manager ID
 #gtm: ""
