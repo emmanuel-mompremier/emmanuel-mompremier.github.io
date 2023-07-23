@@ -82,6 +82,35 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "emmanuelmompremier.com"  # eg. "deanattali.com/beautiful-jekyll"
 
+
+
+######################################
+# --- Colours / background image --- #
+######################################
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+navbar-col: #6d9bc3"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: #6d9bc3"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+
+
+
+
+
+
+
+
+
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: "desh2608-github-io"
