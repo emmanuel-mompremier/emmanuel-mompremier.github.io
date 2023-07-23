@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Speaker profile
+title: Biography - Emmanuel Anios Fils Mompremier
 ---
 
-Desh is a PhD student at [Johns Hopkins University](https://www.cs.jhu.edu/), working in the [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/), advised by [Sanjeev Khudanpur](https://clsp.wse.jhu.edu/faculty-pages/sanjeev) and [Dan Povey](http://www.danielpovey.com/). His research interests lie in the application of machine learning methods for speech and language tasks. He is currently working on **speech recognition** (a.k.a speech-to-text) and **speaker diarization** (a.k.a who spoke when) for multi-party conversations. He wants to build systems which can identify the speaker and transcribe their speech in real time, and do this for all of the world's languages. 
+<br> I am currently pursuing the second year of my dual master's in Decentralized Smart Energy Systems at <a href="https://www.kth.se/en">KTH</a> in Stockholm (joint degree with <a href="https://www.univ-lorraine.fr/en/univ-lorraine/">Universite de Lorraine</a>, France). My main interests and focus lie at the nexus Energy Systems/Engineering - AI - Market/Business. </br>
+										 
+<br> Prior to moving to Europe, I completed my BSc in Mechanical Engineering (July 2021) at <a href="https://www.ntu.edu.tw/english/">National Taiwan University</a> (Taipei, Taiwan) where I joined projects related to the design, manufacture and control of autonomous robot cars & machine learning applied to renewable energy systems among others.</br>
 
-He spent summer 2021 building end-to-end multi-talker ASR systems at Microsoft. In summer 2022, he was an intern in the AI Speech team at Meta, where he explored target-speaker ASR models for improving transducer models in the presence of background speech. Desh has several publications at ICASSP, InterSpeech, SLT, and ASRU, with over 450 citations.
+<br> Computer Science is a huge part of what I am. Whether that is me coding my personal website, programming robot cars, optimizing management of EV charging pool stations or learning different ML/DL models. Therefore, I took advantage of my summer internships at world-known research institutions such as <a href="https://simbiot.loria.fr/"> SIMBIOT</a>'s team at <a href="https://www.loria.fr/en/"> Loria </a> (France) and <a href="https://www.itri.org.tw/english/index.aspx"> Industrial Technology Research Institute ITRI</a> (Taiwan) to gain practical experience on diverse topics related to software development, modelling of electric vehicles, technical writing and presenting, and user market research.
+										During the summer of 2021, I also worked at <a href="https://www.linkedin.com/company/first-code-academy/">First Code Academy</a> (Taiwan) as a STEM Coding Instructor to share my passion for programming and creative thinking with kids aged between 7 and 15 via an online bootcamp that served to stimulate their interest for coding. 
+										I cherish those opportunities as they enabled me to build a network of industry leaders, researchers and peers who inspire me to keep excelling and innovating. </br>
 
-Previously, he graduated from the Indian Institute of Technology Guwahati in 2017 with a major in Computer Science, where his thesis was on deep learning methods for biomedical text. He has worked on building smart assistants at Samsung Research (India) and was an intern at Microsoft India, devising statistics APIs for the Enterprise Commerce team.
-
-When he is not doing ML, he likes to work out, climb boulders, play guitar, and read fiction.
+           
+<br> Having lived and studied in 4 different countries (Sweden, France, Taiwan, Haiti) over 3 continents, I have developed excellent adaptability, language, and communication skills that add value to the teams I work with. </br>
+									
+<br> Outside of school and work, I enjoy competing in university football leagues, shooting nice photos of my travels with friends and reading about global socio-economic & political issues. </br>
