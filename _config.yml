@@ -23,9 +23,9 @@ description: Portfolio
 
 # List of links in the navigation bar
 navbar-links:
-  Projects: ""
-  Writings: ""
-  MISC: ""
+  Projects: "projects"
+  Writings: "writings"
+  MISC: "miscellaneous"
   CV: "CV_Mompremier.pdf"
   BIO: "bio"
   #Home: ""
