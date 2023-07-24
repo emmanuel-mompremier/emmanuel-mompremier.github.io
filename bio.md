@@ -1,7 +1,9 @@
 ---
-layout: home
+layout: default
 title: Biography
 ---
+
+##BIO
 
 <br> I am currently pursuing the second year of my dual master's in Decentralized Smart Energy Systems at <a href="https://www.kth.se/en">KTH</a> in Stockholm (joint degree with <a href="https://www.univ-lorraine.fr/en/univ-lorraine/">Universite de Lorraine</a>, France). My main interests and focus lie at the nexus Energy Systems/Engineering - AI - Market/Business. <br>
 										 
@@ -15,3 +17,6 @@ title: Biography
 <br> Having lived and studied in 4 different countries (Sweden, France, Taiwan, Haiti) over 3 continents, I have developed excellent adaptability, language, and communication skills that add value to the teams I work with. <br>
 									
 <br> Outside of school and work, I enjoy competing in university football leagues, shooting nice photos of my travels with friends and reading about global socio-economic & political issues. <br>
+
+
+<a href="/img/Emmanuel_Mompremier_IDPhoto.jpg" download>Download headshot</a>
