@@ -8,14 +8,12 @@ title: Selected Projects
 - **A Methodology for End-to-End Digitalization of Battery Cell Production**  
   **Emmanuel Anios Fils Mompremier**
 
-  #<img src="static/img/Emmanuel_Mompremier_IDPhoto.jpg">
-
-  ![Emmanuel_Mompremier_IDPhoto](static/img/Emmanuel_Mompremier_IDPhoto.jpg) 
+    ![Emmanuel_Mompremier_IDPhoto](static/img/Emmanuel_Mompremier_IDPhoto.jpg) 
 
   *This thesis proposes a novel methodology to digitalize complex manufacturing processes such as battery cell production from data creation to data storage and 
    tackle limitations to successful implementation of data analytics solutions such as lack of data acquisition, poor data quality and scarcity of usable data.*  
-  [Paper](https://arxiv.org/abs/2306.10559){: .btn}
-  [Webpage](https://sites.google.com/view/surt2){: .btn}
+  [Paper](){: .btn}
+  [Webpage](){: .btn}
 
   
 
