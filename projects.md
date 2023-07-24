@@ -7,23 +7,21 @@ title: Selected Projects
 
 - **A Methodology for End-to-End Digitalization of Battery Cell Production**  
   **Emmanuel Anios Fils Mompremier**
-
-
     <img src=" ">
 
     ![methodology](static/img/methodology.jpg)
   
 
-  *This thesis proposes a novel methodology to digitalize complex manufacturing processes such as battery cell production from data creation to data storage and 
+  *This thesis proposes a 6-step methodology to digitalize complex manufacturing processes such as battery cell production from data creation to data storage and 
    tackle limitations to successful implementation of data analytics solutions such as lack of data acquisition, poor data quality and scarcity of usable data.*  
   [Paper](){: .btn}
   [Webpage](){: .btn}
 
   
 
-- **GPU-accelerated Guided Source Separation for Meeting Transcription**  
-  **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
-  *InterSpeech 2023*  
+- **Demand Management for Power-Critical Off-Grid Induustrial Applications**  
+  **Emmanuel Anios Fils Mompremier**, Sahan Tampoe, Nuril Hidayati, José Carlos Martinez Rosales, Jana Dundure 
+  *This project introduces DMSystems which is  is a fast-response demand-management / load shedding mechanism with a time response of 10 milliseconds that has the potential to solve the problem of power reliability for the mining application, and consequently, many other applications that depend on a reliable source of power but cannot afford redundancy, including off-grid industrial applications.*  
   [Paper](https://arxiv.org/abs/2212.05271){: .btn}
   [Code](https://github.com/desh2608/gss){: .btn} 
 
