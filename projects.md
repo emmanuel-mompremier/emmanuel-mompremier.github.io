@@ -8,6 +8,9 @@ title: Selected Projects
 - **A Methodology for End-to-End Digitalization of Battery Cell Production**  
   **Emmanuel Anios Fils Mompremier**
 
+
+    <img src="static/img/methodology.jpg">
+
     ![methodology](static/img/methodology.jpg)
   
 
