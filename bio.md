@@ -5,9 +5,9 @@ title: Biography
 
 ## Bio
 
-<br> I am currently pursuing the second year of my dual master's in Decentralized Smart Energy Systems at <a href="https://www.kth.se/en">KTH</a> in Stockholm (joint degree with <a href="https://www.univ-lorraine.fr/en/univ-lorraine/">Universite de Lorraine</a>, France). My main interests and focus lie at the nexus Energy Systems/Engineering - AI - Market/Business. <br>
+<br> I recently completed the second year of my dual master's in Decentralized Smart Energy Systems at <a href="https://www.kth.se/en">KTH</a> in Stockholm (joint degree with <a href="https://www.univ-lorraine.fr/en/univ-lorraine/">Universite de Lorraine</a>, France). My main interests and focus lie at the nexus Energy Systems/Engineering - AI - Market/Business.
 										 
-<br> Prior to moving to Europe, I completed my BSc in Mechanical Engineering (July 2021) at <a href="https://www.ntu.edu.tw/english/">National Taiwan University</a> (Taipei, Taiwan) where I joined projects related to the design, manufacture and control of autonomous robot cars & machine learning applied to renewable energy systems among others.<br>
+Prior to moving to Europe, I received my BSc in Mechanical Engineering (July 2021) at <a href="https://www.ntu.edu.tw/english/">National Taiwan University</a> (Taipei, Taiwan) where I joined projects related to the design, manufacture and control of autonomous robot cars & machine learning applied to renewable energy systems among others.<br>
 
 <br> Computer Science is a huge part of what I am. Whether that is me coding my personal website, programming robot cars, optimizing management of EV charging pool stations or learning different ML/DL models. Therefore, I took advantage of my summer internships at world-known research institutions such as <a href="https://simbiot.loria.fr/"> SIMBIOT</a>'s team at <a href="https://www.loria.fr/en/"> Loria </a> (France) and <a href="https://www.itri.org.tw/english/index.aspx"> Industrial Technology Research Institute ITRI</a> (Taiwan) to gain practical experience on diverse topics related to software development, modelling of electric vehicles, technical writing and presenting, and user market research.
 										During the summer of 2021, I also worked at <a href="https://www.linkedin.com/company/first-code-academy/">First Code Academy</a> (Taiwan) as a STEM Coding Instructor to share my passion for programming and creative thinking with kids aged between 7 and 15 via an online bootcamp that served to stimulate their interest for coding. 
@@ -19,4 +19,4 @@ title: Biography
 <br> Outside of school and work, I enjoy competing in university football leagues, shooting nice photos of my travels with friends and reading about global socio-economic & political issues. <br>
 
 
-<a href="/img/Emmanuel_Mompremier_IDPhoto.jpg" download>Download headshot</a>
+<a href="/static/img/Emmanuel_Mompremier_IDPhoto.jpg" download>Download headshot</a>
