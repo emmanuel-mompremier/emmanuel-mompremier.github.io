@@ -9,7 +9,7 @@ title: Selected Projects
   **Emmanuel Anios Fils Mompremier**
 
 
-    <img src="static/img/methodology.jpg">
+    <img src=" ">
 
     ![methodology](static/img/methodology.jpg)
   
