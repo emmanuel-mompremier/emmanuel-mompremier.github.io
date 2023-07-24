@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Biography - Emmanuel Anios Fils Mompremier
+layout: default
+title: Biography
 ---
 
 <br> I am currently pursuing the second year of my dual master's in Decentralized Smart Energy Systems at <a href="https://www.kth.se/en">KTH</a> in Stockholm (joint degree with <a href="https://www.univ-lorraine.fr/en/univ-lorraine/">Universite de Lorraine</a>, France). My main interests and focus lie at the nexus Energy Systems/Engineering - AI - Market/Business. <br>
