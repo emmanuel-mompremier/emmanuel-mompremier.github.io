@@ -99,7 +99,7 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
   [Poster](/static/poster/FinalPoster.pdf){: .btn}
 
 
-  <hr style="height:2px;border-width:0;color:blue;background-color:gray">
+  <hr style="height:4px;border-width:0;color:blue;background-color:gray">
 
 
 
