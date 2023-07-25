@@ -14,8 +14,8 @@ title: Selected Projects
 
   *This thesis proposes a 6-step methodology to digitalize complex manufacturing processes such as battery cell production from data creation to data storage and 
    tackle limitations to successful implementation of data analytics solutions such as lack of data acquisition, poor data quality and scarcity of usable data.*  
-  [Paper](){: .btn}
-  [Webpage](){: .btn}
+  [Slides](static/pdf/Thesis_Presentation.pdf){: .btn}
+  
 
   
 
