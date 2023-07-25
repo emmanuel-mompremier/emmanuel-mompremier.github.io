@@ -28,7 +28,13 @@ title: Selected Projects
      potential to solve the problem of power reliability for the mining application, and consequently, many other applications that depend on a reliable source of 
      power but cannot afford redundancy, including off-grid industrial applications.*  
   [Report](static/pdf/Challenge-Based Module - Final Draft.pdf){: .btn}
-  [Slides](static/pdf/CBM_Final_Presentation.pdf){: .btn} 
+  [Slides](static/pdf/CBM_Final_Presentation.pdf){: .btn}
+
+
+<hr style="height:2px;border-width:0;color:blue;background-color:gray">
+
+
+**2022**
 
 - **Anchored Speech Recognition using Neural Transducers**  
   **Desh Raj**, Junteng Jia, Jay Mahadeokar, Chunyang Wu, Niko Moritz, Xiaohui Zhang, Ozlem Kalinli  
