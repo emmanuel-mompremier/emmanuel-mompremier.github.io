@@ -101,24 +101,24 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
   *IEEE ICASSP 2022*  
   [Paper](https://arxiv.org/abs/2109.08555){: .btn}
   [Slides](/static/ppt/intern_multi_surt.pdf){: .btn}
-  [Poster](/static/poster/icassp-22-surt-poster.pdf){: .btn}
-  [Video](/static/video/icassp22_multi_surt.mp4){: .btn}
+  [Poster](/static/poster/FinalPoster.pdf){: .btn}
+  [Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
 
 - **Paper on Strength of Wind Turbines**  
-  Matthew Wiesner, **Desh Raj**, Sanjeev Khudanpur  
+  **Emmanuel AF Mompremier**   
   *IEEE ICASSP 2022*  
   [Paper](https://arxiv.org/abs/2110.04863){: .btn}
   [Code](https://github.com/m-wiesner/nnet_pytorch/tree/conda_install/babel){: .btn}
   [Poster](/static/poster/icassp-22-lfmmi-poster.pdf){: .btn}
   [Video (Matthew)](/static/video/icassp22_wav2vec_lfmmi.mp4){: .btn}
 
-- **Writing on Energy Conversions**  
-  Zili Huang, Marc Delcroix, Leibny Paola Garcia, Shinji Watanabe, **Desh Raj**, Sanjeev Khudanpur  
-  *Computer, Speech, and Language, Vol. 72*  
-  [Paper](https://doi.org/10.1016/j.csl.2021.101316){: .btn}
+- **Green Buildings: A Major Step Toward Energetic Sustainability**  
+  **Emmanuel AF Mompremier**  
+  *This work points out the threats that buildings and cities pose to the environment in terms of energy consumption and pollution. The report investigates the characteristics of green buildings and their promise to facilitate environmental sustainability.*  
+  [Report](static/pdf/Green Buildings Report.pdf){: .btn}
 
-  - **Video on Spanish Class**  
-  Zili Huang, Marc Delcroix, Leibny Paola Garcia, Shinji Watanabe, **Desh Raj**, Sanjeev Khudanpur  
-  *Computer, Speech, and Language, Vol. 72*  
-  [Paper](https://doi.org/10.1016/j.csl.2021.101316){: .btn}
+- **Cultura Pop Espanola: Las Funciones del Rap**  
+ **Emmanuel AF Mompremier**   
+  *Clase de Literatura Espanola*  
+  [Video](https://youtu.be/AgOV49G6VGo)https://youtu.be/AgOV49G6VGo){: .btn}
 
