@@ -60,16 +60,17 @@ title: Selected Projects
 
 
 
-  - **Congo**  
-  **Emmanuel Anios Fils Mompremier**, Nuril Hidayati, Olamilekan Olugbayila
+  - **Cobalt Mining and the Green Energy Revolution - Case of the Democratic Republic of Congo**  
+  **Emmanuel Anios Fils Mompremier**, Bismark Razak Haruna, Olamilekan Olugbayila, Soroush Rostami
 
   
-![norway](static/img/norway.jpg)
+![mining](static/img/mining.jpg)
   
-  *This project focuses on powering a football stadium with combined Photovoltaic and Battery Energy Storage System (BESS) connected to the grid. The distinct load profile of the football stadium and the energy generation coming from PV in Norway results in a significant excess power. This situation leads to the choice to connect the system to the grid with the main objective to sell the excess electricity produced. The project seeks to optimize the size of each sub-system (PV panels & and battery cells), that needs to be installed. In addition to that, analysis of the yearly revenue and the payback period will also be made while taking into account the amount of electricity sold to the grid. The optimization is carried out using the genetic algorithm (GA) method implemented in MATLAB.*  
-  [Report](static/pdf/norway_report.pdf){: .btn}
+  *This paper investigates cobalt mining in the Democratic Republic of Congo and develops a detailed map of all factors playing a role in the
+country’s mineral curse. The implications of the cobalt controversy in DRC and potential impacts on the world at large in the push for green energy as an alternative to fossils are also discussed.*  
+  [Report](static/pdf/mining_report.pdf){: .btn}
   [Report](static/pdf/norway_slides.pdf){: .btn}
-  [Code](https://github.com/emmanuel-mp/optimal-sizing-stadium/tree/main){: .btn}
+  
 
 
   <hr style="height:2px;border-width:0;color:blue;background-color:gray">
