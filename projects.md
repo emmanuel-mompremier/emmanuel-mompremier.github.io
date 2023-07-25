@@ -60,7 +60,7 @@ title: Selected Projects
 
 
 
- - **Cobalt Mining and the Green Energy Revolution - Case of the Democratic Republic of Congo**  
+- **Cobalt Mining and the Green Energy Revolution - Case of the Democratic Republic of Congo**  
   **Emmanuel AF Mompremier**, Bismark Razak Haruna, Olamilekan Olugbayila, Soroush Rostami
 
   
@@ -91,7 +91,7 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
   [Demonstration Video](https://www.youtube.com/watch?v=hNCByKByH54){: .btn}
 
 
- - **3D Design of an Aircraft Carrier**  
+- **3D Design of an Aircraft Carrier**  
   **Emmanuel AF Mompremier**    
   *Final CAD Design Project*
   [Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
@@ -119,7 +119,7 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
 - **Green Buildings: A Major Step Toward Energetic Sustainability**  
   **Emmanuel AF Mompremier**  
   *This work points out the threats that buildings and cities pose to the environment in terms of energy consumption and pollution. The report investigates the characteristics of green buildings and their promise to facilitate environmental sustainability.*  
-  [Report](static/pdf/Green Buildings Report.pdf){: .btn}
+  [Report](static/pdf/Green_Buildings_Report.pdf){: .btn}
   
 
 - **Cultura Pop Espanola: Las Funciones del Rap**  
