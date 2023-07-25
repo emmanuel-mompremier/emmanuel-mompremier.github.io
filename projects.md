@@ -42,6 +42,7 @@ title: Selected Projects
   
   *The challenge is to devise a strategy for charging a pool of electric vehicles in an industrial-like microgrid by minimizing a trade-off between the costs of the electricity purchased to operate the charging station and the penalty incurred to the EV owners if their desired state of charge at departure time is not met. The electricity used in the microgrid can come from the main grid or from PV panels or from both. Additionally, there is a limit on the power that can be imported from or exported to the grid. To design the charging station's controller, the problem is modelled as as a MILP optimization with constraints*  
   [Code](https://github.com/emmanuel-mp/operational-planing-charging-pool){: .btn}
+  
  
 
 - **Optimal Sizing of Microgrids**  
