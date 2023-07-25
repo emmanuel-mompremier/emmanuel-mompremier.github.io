@@ -19,14 +19,12 @@ title: Selected Projects
 
   
 
-- **Demand Management for Power-Critical Off-Grid Induustrial Applications**  
+- **Demand Management for Power-Critical Off-Grid Industrial Applications**  
   **Emmanuel Anios Fils Mompremier**, Sahan Tampoe, Nuril Hidayati, José Carlos Martinez Rosales, Jana Dundure
 
      ![dmsystems](static/img/dmsystems.jpg)
 
-    *This project introduces DMSystems which is  is a fast-response demand-management / load shedding mechanism with a time response of 10 milliseconds that has the 
-     potential to solve the problem of power reliability for the mining application, and consequently, many other applications that depend on a reliable source of 
-     power but cannot afford redundancy, including off-grid industrial applications.*  
+    *This project involves the design of DMSystems, a fast-response demand-management system capable of coping with unexpected reductions in power generation availability and guard against unforeseen power outages. DMSystems can deliver on the technical requirement of responding to an electrical fault observed through a reduction in grid frequency below the desired threshold with a roundtrip response time of 10 milliseconds.*  
   [Report](static/pdf/Challenge-Based Module - Final Draft.pdf){: .btn}
   [Slides](static/pdf/CBM_Final_Presentation.pdf){: .btn}
 
