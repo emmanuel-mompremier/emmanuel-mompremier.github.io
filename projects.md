@@ -6,7 +6,7 @@ title: Selected Projects
 **2023**
 
 - **A Methodology for End-to-End Digitalization of Battery Cell Production**  
-  **Emmanuel Anios Fils Mompremier**
+  **Emmanuel AF Mompremier**
     <img src=" ">
 
     ![methodology](static/img/methodology.jpg)
@@ -20,7 +20,7 @@ title: Selected Projects
   
 
 - **Demand Management for Power-Critical Off-Grid Industrial Applications**  
-  **Emmanuel Anios Fils Mompremier**, Sahan Tampoe, Nuril Hidayati, José Carlos Martinez Rosales, Jana Dundure
+  **Emmanuel AF Mompremier**, Sahan Tampoe, Nuril Hidayati, José Carlos Martinez Rosales, Jana Dundure
 
      ![dmsystems](static/img/dmsystems.jpg)
 
@@ -30,25 +30,24 @@ title: Selected Projects
   [Demonstration Video]([static/pdf/CBM_Final_Presentation.pdf](https://www.youtube.com/watch?v=oFLpF7w5C1g)){: .btn}
 
 
-<hr style="height:2px;border-width:0;color:blue;background-color:gray">
+<hr style="height:4px;border-width:0;color:blue;background-color:gray">
 
 
 **2022**
 
 - **Operational Planning: Strategy for Charging a Pool of Electric Vehicles**  
-  **Emmanuel Anios Fils Mompremier**, Pierfrancesco Losi, Olamilean Olugbayila, Yuanlu Li
+  **Emmanuel AF Mompremier**, Pierfrancesco Losi, Olamilekan Olugbayila, Yuanlu Li
 
 ![charging](static/img/charging.jpg)
   
   *The challenge is to devise a strategy for charging a pool of electric vehicles in an industrial-like microgrid by minimizing a trade-off between the costs of the electricity purchased to operate the charging station and the penalty incurred to the EV owners if their desired state of charge at departure time is not met. The electricity used in the microgrid can come from the main grid or from PV panels or from both. Additionally, there is a limit on the power that can be imported from or exported to the grid. To design the charging station's controller, the problem is modelled as as a MILP optimization with constraints.*
-  
   [Report](static/pdf/Operational_Planning_Report.pdf){: .btn}
   [Code](https://github.com/emmanuel-mp/operational-planing-charging-pool){: .btn}
   
  
 
 - **Optimal Sizing of Microgrids: Case of the Skagerak Stadium in Norway**  
-  **Emmanuel Anios Fils Mompremier**, Nuril Hidayati, Olamilekan Olugbayila
+  **Emmanuel AF Mompremier**, Nuril Hidayati, Olamilekan Olugbayila
 
   
 ![norway](static/img/norway.jpg)
@@ -62,7 +61,7 @@ title: Selected Projects
 
 
  - **Cobalt Mining and the Green Energy Revolution - Case of the Democratic Republic of Congo**  
-  **Emmanuel Anios Fils Mompremier**, Bismark Razak Haruna, Olamilekan Olugbayila, Soroush Rostami
+  **Emmanuel AF Mompremier**, Bismark Razak Haruna, Olamilekan Olugbayila, Soroush Rostami
 
   
 ![mining](static/img/mining.jpg)
@@ -74,7 +73,7 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
   
 
 
-  <hr style="height:2px;border-width:0;color:blue;background-color:gray">
+  <hr style="height:4px;border-width:0;color:blue;background-color:gray">
 
 
 
@@ -82,10 +81,14 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
 
 **2021**
 
-- **Energy+**  
-  Giovanni Morrone, Samuele Cornell, **Desh Raj**, Luca Serafini, Enrico Zovato, Alessio Brutti, Stefano Squartini  
-  *IEEE Spoken Language Technology (SLT) Workshop 2022*  
-  [Paper](https://arxiv.org/abs/2204.02306){: .btn}
+- **A Renewable Energy Community: Technical and Behavioural Design of a Self-Sufficient System**  
+  **Emmanuel AF Mompremier**, Pierfrancesco Losi, Sthefi Klaus, Yuanlu Li, Jana Dundure
+
+![energyplus](static/img/energyplus.jpg)
+    
+  *Design of an energy system (generation, storage, smart monitoring system) that covers the entire need of a self-sufficient renewable energy community of 11 households located in the suburbs of Metz (northeast of France). That community aims to mobilize citizens toward energy transition and improve the flexibility of the electricity system. The project intends to make it possible for such communities to collectively produce, store, consume and monitor their energy effectively. The energy system proposed should allow the inhabitants to be as autonomous as possible in the management of their energy system and energy consumption, and therefore to no longer be dependent on energy suppliers. Furthermore, the proposal should ensure that the system is usable and performs well by integrating user needs and behaviors in the design. Energy+, implemented in the project, is an app to help the users know how their energy is spent and how they can reach their monthly sustainability goal by decreasing their consumption with suitable measures such as energy planning.*  
+  [Report](static/pdf/energyplus_report.pdf){: .btn}
+  [Demonstration Video](https://www.youtube.com/watch?v=hNCByKByH54){: .btn}
 
 
   <hr style="height:2px;border-width:0;color:blue;background-color:gray">
