@@ -41,6 +41,7 @@ title: Selected Projects
 ![charging](static/img/charging.jpg)
   
   *The challenge is to devise a strategy for charging a pool of electric vehicles in an industrial-like microgrid by minimizing a trade-off between the costs of the electricity purchased to operate the charging station and the penalty incurred to the EV owners if their desired state of charge at departure time is not met. The electricity used in the microgrid can come from the main grid or from PV panels or from both. Additionally, there is a limit on the power that can be imported from or exported to the grid. To design the charging station's controller, the problem is modelled as as a MILP optimization with constraints.*
+  
   [Report](static/pdf/Operational_Planning_Report.pdf){: .btn}
   [Code](https://github.com/emmanuel-mp/operational-planing-charging-pool){: .btn}
   
@@ -54,13 +55,13 @@ title: Selected Projects
   
   *This project focuses on powering a football stadium with combined Photovoltaic and Battery Energy Storage System (BESS) connected to the grid. The distinct load profile of the football stadium and the energy generation coming from PV in Norway results in a significant excess power. This situation leads to the choice to connect the system to the grid with the main objective to sell the excess electricity produced. The project seeks to optimize the size of each sub-system (PV panels & and battery cells), that needs to be installed. In addition to that, analysis of the yearly revenue and the payback period will also be made while taking into account the amount of electricity sold to the grid. The optimization is carried out using the genetic algorithm (GA) method implemented in MATLAB.*  
   [Report](static/pdf/norway_report.pdf){: .btn}
-  [Report](static/pdf/norway_slides.pdf){: .btn}
+  [Slides](static/pdf/norway_slides.pdf){: .btn}
   [Code](https://github.com/emmanuel-mp/optimal-sizing-stadium/tree/main){: .btn}
 
 
 
 
-  - **Cobalt Mining and the Green Energy Revolution - Case of the Democratic Republic of Congo**  
+ - **Cobalt Mining and the Green Energy Revolution - Case of the Democratic Republic of Congo**  
   **Emmanuel Anios Fils Mompremier**, Bismark Razak Haruna, Olamilekan Olugbayila, Soroush Rostami
 
   
