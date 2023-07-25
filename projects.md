@@ -91,31 +91,36 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
   [Demonstration Video](https://www.youtube.com/watch?v=hNCByKByH54){: .btn}
 
 
+ - **3D Design of an Aircraft Carrier**  
+  **Emmanuel AF Mompremier**    
+  *Final CAD Design Project*
+  [Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
+  [Slides](/static/ppt/gears.ppt){: .btn}
+  [Poster](/static/poster/FinalPoster.pdf){: .btn}
+
+
   <hr style="height:2px;border-width:0;color:blue;background-color:gray">
+
+
 
 
   **2020**
 
-- **3D Design of Airplane**  
-  **Desh Raj**, Liang Lu, Zhuo Chen, Yashesh Gaur, Jinyu Li  
-  *IEEE ICASSP 2022*  
-  [Paper](https://arxiv.org/abs/2109.08555){: .btn}
-  [Slides](/static/ppt/intern_multi_surt.pdf){: .btn}
-  [Poster](/static/poster/FinalPoster.pdf){: .btn}
-  [Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
+- **Analysis of the Strength of Wind Turbine Towers Under Aerodynamic Loads**  
+  **Emmanuel AF Mompremier**
 
-- **Paper on Strength of Wind Turbines**  
-  **Emmanuel AF Mompremier**   
-  *IEEE ICASSP 2022*  
-  [Paper](https://arxiv.org/abs/2110.04863){: .btn}
-  [Code](https://github.com/m-wiesner/nnet_pytorch/tree/conda_install/babel){: .btn}
-  [Poster](/static/poster/icassp-22-lfmmi-poster.pdf){: .btn}
-  [Video (Matthew)](/static/video/icassp22_wav2vec_lfmmi.mp4){: .btn}
+![towers](static/img/towers.jpg)
+
+
+  *The study uses Finite Element Analysis to model 6 different types of wind turbine towers and assess their performance under a given set of loads. The finite element models of these 10m-tall towers are analyzed using ABAQUS. Comparison of the deformations, stresses and stability under rotor excitation indicate that the conical steel towers can achieve the best structural performance.*  
+  [Paper](static/pdf/towers_paper.pdf){: .btn}
+
 
 - **Green Buildings: A Major Step Toward Energetic Sustainability**  
   **Emmanuel AF Mompremier**  
   *This work points out the threats that buildings and cities pose to the environment in terms of energy consumption and pollution. The report investigates the characteristics of green buildings and their promise to facilitate environmental sustainability.*  
   [Report](static/pdf/Green Buildings Report.pdf){: .btn}
+  
 
 - **Cultura Pop Espanola: Las Funciones del Rap**  
  **Emmanuel AF Mompremier**   
