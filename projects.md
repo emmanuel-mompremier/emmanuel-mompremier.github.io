@@ -25,7 +25,7 @@ title: Selected Projects
      ![dmsystems](static/img/dmsystems.jpg)
 
     *This project involves the design of DMSystems, a fast-response demand-management system capable of coping with unexpected reductions in power generation availability and guarding against unforeseen power outages. DMSystems can deliver on the technical requirement of responding to an electrical fault observed through a reduction in grid frequency below the desired threshold with a roundtrip response time of 10 milliseconds.*  
-  [Report](static/pdf/Challenge-Based Module - Final Draft.pdf){: .btn}
+  [Report](static/pdf/Challenge_Based_Module_Report.pdf){: .btn}
   [Slides](static/pdf/CBM_Final_Presentation.pdf){: .btn}
   [Demonstration Video]([static/pdf/CBM_Final_Presentation.pdf](https://www.youtube.com/watch?v=oFLpF7w5C1g)){: .btn}
 
@@ -37,11 +37,12 @@ title: Selected Projects
 
 - **Operational Planning: Strategy for Charging a Pool of Electric Vehicles**  
   **Emmanuel Anios Fils Mompremier**, Pierfrancesco Losi, Olamilean Olugbayila, Yuanlu Li
+
+![charging](static/img/charging.jpg)
   
   *The challenge is to devise a strategy for charging a pool of electric vehicles in an industrial-like microgrid by minimizing a trade-off between the costs of the electricity purchased to operate the charging station and the penalty incurred to the EV owners if their desired state of charge at departure time is not met. The electricity used in the microgrid can come from the main grid or from PV panels or from both. Additionally, there is a limit on the power that can be imported from or exported to the grid. To design the charging station's controller, the problem is modelled as as a MILP optimization with constraints*  
-  [Paper](https://arxiv.org/abs/2210.11588){: .btn}
-  [Slides](/static/ppt/icassp23_tsasr.pdf){: .btn}
-  [Video](https://youtu.be/L2WnjQC8Pe0){: .btn} 
+  [Code](https://github.com/emmanuel-mp/operational-planing-charging-pool){: .btn}
+ 
 
 - **Optimal Sizing of Microgrids**  
   Zili Huang, **Desh Raj**, Paola Garcia, Sanjeev Khudanpur  
