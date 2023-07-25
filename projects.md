@@ -125,5 +125,5 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
 - **Cultura Pop Espanola: Las Funciones del Rap**  
  **Emmanuel AF Mompremier**   
   *Clase de Literatura Espanola*  
-  [Video](https://youtu.be/AgOV49G6VGo)https://youtu.be/AgOV49G6VGo){: .btn}
+  [Video](https://youtu.be/AgOV49G6VGo){: .btn}
 
