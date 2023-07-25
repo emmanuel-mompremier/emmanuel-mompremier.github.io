@@ -24,13 +24,13 @@ title: Selected Projects
 
       <img src=" ">
 
-    ![methodology](static/img/methodology.jpg)
+    ![dmsystems](static/img/dmsystems.jpg)
 
     *This project introduces DMSystems which is  is a fast-response demand-management / load shedding mechanism with a time response of 10 milliseconds that has the 
      potential to solve the problem of power reliability for the mining application, and consequently, many other applications that depend on a reliable source of 
      power but cannot afford redundancy, including off-grid industrial applications.*  
   [Report](static/pdf/Challenge-Based Module - Final Draft.pdf){: .btn}
-  [Code](https://github.com/desh2608/gss){: .btn} 
+  [Slides](https://drive.google.com/file/d/1G2V1n8vNprMeuVsZ8tQCQ9meAnCeBYrR/view?usp=sharing){: .btn} 
 
 - **Anchored Speech Recognition using Neural Transducers**  
   **Desh Raj**, Junteng Jia, Jay Mahadeokar, Chunyang Wu, Niko Moritz, Xiaohui Zhang, Ozlem Kalinli  
