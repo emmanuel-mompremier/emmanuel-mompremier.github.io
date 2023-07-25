@@ -69,7 +69,7 @@ title: Selected Projects
   *This paper investigates cobalt mining in the Democratic Republic of Congo and develops a detailed map of all factors playing a role in the
 country’s mineral curse. The implications of the cobalt controversy in DRC and potential impacts on the world at large in the push for green energy as an alternative to fossils are also discussed.*  
   [Report](static/pdf/mining_report.pdf){: .btn}
-  [Report](static/pdf/norway_slides.pdf){: .btn}
+  
   
 
 
