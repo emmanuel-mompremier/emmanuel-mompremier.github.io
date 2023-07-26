@@ -32,7 +32,6 @@ title: Selected Projects
 
 <hr style="height:4px;border-width:0;color:blue;background-color:gray">
 
-
 **2022**
 
 - **Operational Planning: Strategy for Charging a Pool of Electric Vehicles**  
@@ -72,12 +71,8 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
   
   
 
+<hr style="height:4px;border-width:0;color:blue;background-color:gray">
 
-  <hr style="height:4px;border-width:0;color:blue;background-color:gray">
-
-
-
-  
 
 **2021**
 
@@ -99,12 +94,12 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
   [Poster](/static/poster/FinalPoster.pdf){: .btn}
 
 
-  <hr style="height:4px;border-width:0;color:blue;background-color:gray">
+
+<hr style="height:4px;border-width:0;color:blue;background-color:gray">
 
 
 
-
-  **2020**
+**2020**
 
 - **Analysis of the Strength of Wind Turbine Towers Under Aerodynamic Loads**  
   **Emmanuel AF Mompremier**
