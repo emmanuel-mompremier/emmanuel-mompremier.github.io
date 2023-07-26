@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: default
 title: Selected Projects
 ---
+
+## Selected Projects
+
 
 **2023**
 
