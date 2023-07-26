@@ -100,7 +100,8 @@ title: Selected Projects
     *Final CAD Design Project*
     <br>[Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
     [Slides](/static/ppt/gears.ppt){: .btn}
-    [Poster](/static/poster/FinalPoster.pdf){: .btn} <br><br><br><br>
+    [Poster](/static/poster/FinalPoster.pdf){: .btn}
+  <br>![carrier](static/img/carrier.jpeg) <br><br><br><br>
 
 
 
