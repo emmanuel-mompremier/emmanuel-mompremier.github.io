@@ -48,17 +48,18 @@ avatar: "/static/img/Emmanuel_Mompremier_IDPhoto.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Emmanuel AF Mompremier
-  email: "draj@cs.jhu.edu"
-  github: desh2608    # eg. daattali
-  linkedin: rdesh26
-  twitter: rdesh26
+  email: "eafmo@kth.se"
+  linkedin: emmanuelafmompremier
+  github:  emmanuel-mp
+  
+  
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
-  twitter: true
+  twitter: false
   google-plus: false
   github: true
   reddit: false
