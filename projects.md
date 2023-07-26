@@ -88,7 +88,7 @@ title: Selected Projects
    therefore to no longer be dependent on energy suppliers. Furthermore, the proposal should ensure that the system is usable and performs well by integrating user 
    needs and behaviors in the design. Energy+, implemented in the project, is an app to help the users know how their energy is spent and how they can reach their 
    monthly sustainability goal by decreasing their consumption with suitable measures such as energy planning.*  
-  <br>[Report](static/pdf/energyplus_report.pdf){: .btn}
+  [Report](static/pdf/energyplus_report.pdf){: .btn}
   [Demonstration Video](https://www.youtube.com/watch?v=hNCByKByH54){: .btn}
   <br>![energyplus](static/img/energyplus.jpg)<br><br><br><br>
     
