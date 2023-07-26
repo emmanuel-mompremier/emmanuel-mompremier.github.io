@@ -5,23 +5,23 @@ title: Miscellaneous
 
 Here is a list of my talks and presentations (including presenting work by other authors in reading groups):
 
-<b>Honors</b><br><br>
+<b>Honors</b><br>
 
 <ul>
 	<li><i>Sep 2021:</i> Erasmus Mundus Scholarship
-	</li><br>
+	</li>
 
 	<li><i>Jul 2021:</i> Academic Achievement Award by National Taiwan University (top 5%)
-	</li><br>
+	</li>
 
  	<li><i>Jun 2021:</i> National InterCollegiate Soccer Championship (2020, 2021)
-	</li><br>
+	</li>
 
   	<li><i>Feb 2018:</i> Outstanding Chinese Writing Skills Award 
-	</li><br>
+	</li>
 
    	<li><i>Sep 2017:</i> MOFA Taiwan Scholarship 
-	</li><br>
+	</li>
  </ul>
 
 
