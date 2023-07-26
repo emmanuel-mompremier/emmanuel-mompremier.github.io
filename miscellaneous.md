@@ -40,7 +40,7 @@ Here is a list of my talks and presentations (including presenting work by other
  </ul>
  
 
- <b>In the Press</b><br><br>
+ <b>**Press coverage:** </b>Some selected coverage of my work is below:<br><br>
 
 <ul>
 	<li>Featured in <a href="https://densys.univ-lorraine.fr/"> DENSYS </a>  Introduction Video, 2021 <a href="https://www.youtube.com/watch?v=CPq6vBX1jnY"> [video in French] </a>
