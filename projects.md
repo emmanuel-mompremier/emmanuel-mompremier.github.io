@@ -10,12 +10,10 @@ title: Selected Projects
 
 - **A Methodology for End-to-End Digitalization of Battery Cell Production**  
   **Emmanuel AF Mompremier**
-  
-  *This thesis proposes a 6-step methodology to digitalize complex manufacturing processes such as battery cell production from data creation to data storage and 
+    *This thesis proposes a 6-step methodology to digitalize complex manufacturing processes such as battery cell production from data creation to data storage and 
    tackle limitations to successful implementation of data analytics solutions such as lack of data acquisition, poor data quality and scarcity of usable data.*
-  
-  [Slides](static/pdf/Thesis_Presentation.pdf){: .btn}
-   <img src="static/img/methodology.jpg" style="width=200px;height=200px" />
+    [Slides](static/pdf/Thesis_Presentation.pdf){: .btn}
+   ![methodology](static/img/methodology.jpg)
 
    
    
@@ -29,8 +27,7 @@ title: Selected Projects
 
      ![dmsystems](static/img/dmsystems.jpg)
 
-   ![methodology](static/img/methodology.jpg)
-
+   
     *This project involves the design of DMSystems, a fast-response demand-management system capable of coping with unexpected reductions in power generation availability and guarding against unforeseen power outages. DMSystems can deliver on the technical requirement of responding to an electrical fault observed through a reduction in grid frequency below the desired threshold with a roundtrip response time of 10 milliseconds.*  
   [Report](static/pdf/Challenge_Based_Module_Report.pdf){: .btn}
   [Slides](static/pdf/CBM_Final_Presentation.pdf){: .btn}
