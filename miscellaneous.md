@@ -28,7 +28,7 @@ title: Miscellaneous
 <b>Leadership</b><br>
 
 <ul>
-	<li> Student Ambassador at National Taiwan University, NTU (2019 - 2021). Check out their website <a href="https://oia.ntu.edu.tw/en/internationalstudents/activities/oncampusintexperience/studentambassador"> [url]</a> and Facebook Page<a href="https://www.facebook.com/NTUOIASA"> [fb]</a>
+	<li> Student Ambassador at National Taiwan University, NTU (2019 - 2021). Check out the <a href="https://oia.ntu.edu.tw/en/internationalstudents/activities/oncampusintexperience/studentambassador">website</a> and <a href="https://www.facebook.com/NTUOIASA"> Facebook Page</a>
 	</li>
 
 	<li>Advisory Board Member at National Taiwan University Student Association, Department of International Affairs (2019 - 2020)
