@@ -22,7 +22,7 @@ title: Selected Projects
   
 
 - **Demand Management for Power-Critical Off-Grid Industrial Applications**  
-  **Emmanuel AF Mompremier**, Sahan Tampoe, Nuril Hidayati, José Carlos Martinez Rosales, Jana Dundure
+  **Emmanuel AF Mompremier**, S. Tampoe, N. Hidayati, J. Martinez, J. Dundure
       <br>*This project involves the design of DMSystems, a fast-response demand-management system capable of coping with unexpected reductions in power generation availability and guarding against unforeseen power outages. DMSystems can deliver on the technical requirement of responding to an electrical fault observed through a reduction in grid frequency below the desired threshold with a roundtrip response time of 10 milliseconds.*
   <br>[Report](static/pdf/Challenge_Based_Module_Report.pdf){: .btn}
   [Slides](static/pdf/CBM_Final_Presentation.pdf){: .btn}
