@@ -52,7 +52,7 @@ title: Selected Projects
     to connect the system to the grid with the main objective to sell the excess electricity produced. The project seeks to optimize the size of each sub-system (PV 
    panels & and battery cells), that needs to be installed. In addition to that, analysis of the yearly revenue and the payback period will also be made while taking 
    into account the amount of electricity sold to the grid. The optimization is carried out using the genetic algorithm (GA) method implemented in MATLAB.*  
-  <br>[Report](static/pdf/norway_report.pdf){: .btn}
+  [Report](static/pdf/norway_report.pdf){: .btn}
   [Slides](static/pdf/norway_slides.pdf){: .btn}
   [Code](https://github.com/emmanuel-mp/optimal-sizing-stadium/tree/main){: .btn}<br><br><br><br>
 
@@ -61,15 +61,16 @@ title: Selected Projects
   
 
 - **Cobalt Mining and the Green Energy Revolution - Case of the Democratic Republic of Congo**  
-  **Emmanuel AF Mompremier**, Bismark Razak Haruna, Olamilekan Olugbayila, Soroush Rostami
-
-  
-    ![mining](static/img/mining.jpg)
-  
-    *This paper investigates cobalt mining in the Democratic Republic of Congo and develops a detailed map of all factors playing a role in the
+  **Emmanuel AF Mompremier**, B. Haruna, O. Olugbayila, S. Rostami
+      <br>*This paper investigates cobalt mining in the Democratic Republic of Congo and develops a detailed map of all factors playing a role in the
      country’s mineral curse. The implications of the cobalt controversy in DRC and potential impacts on the world at large in the push for green energy as an 
    alternative to fossils are also discussed.*  
-   [Report](static/pdf/mining_report.pdf){: .btn}
+   <br>[Report](static/pdf/mining_report.pdf){: .btn}<br><br><br><br>
+
+  
+     <!--![mining](static/img/mining.jpg)-->
+  
+
   
   
 
@@ -79,28 +80,27 @@ title: Selected Projects
 **2021**
 
 - **A Renewable Energy Community: Technical and Behavioural Design of a Self-Sufficient System**  
-  **Emmanuel AF Mompremier**, Pierfrancesco Losi, Sthefi Klaus, Yuanlu Li, Jana Dundure
-
-    ![energyplus](static/img/energyplus.jpg)
-    
-   *Design of an energy system (generation, storage, smart monitoring system) that covers the entire need of a self-sufficient renewable energy community of 11 
+  **Emmanuel AF Mompremier**, P. Losi, S. Klaus, Y. Li, J. Dundure
+     <br>*Design of an energy system (generation, storage, smart monitoring system) that covers the entire need of a self-sufficient renewable energy community of 11 
    households located in the suburbs of Metz (northeast of France). That community aims to mobilize citizens toward energy transition and improve the flexibility of 
    the electricity system. The project intends to make it possible for such communities to collectively produce, store, consume and monitor their energy effectively. 
    The energy system proposed should allow the inhabitants to be as autonomous as possible in the management of their energy system and energy consumption, and 
    therefore to no longer be dependent on energy suppliers. Furthermore, the proposal should ensure that the system is usable and performs well by integrating user 
    needs and behaviors in the design. Energy+, implemented in the project, is an app to help the users know how their energy is spent and how they can reach their 
    monthly sustainability goal by decreasing their consumption with suitable measures such as energy planning.*  
-  [Report](static/pdf/energyplus_report.pdf){: .btn}
+  <br>[Report](static/pdf/energyplus_report.pdf){: .btn}
   [Demonstration Video](https://www.youtube.com/watch?v=hNCByKByH54){: .btn}
+  <br>![energyplus](static/img/energyplus.jpg)<br><br><br><br>
+    
+
 
 
 - **3D Design of an Aircraft Carrier**  
   **Emmanuel AF Mompremier**    
     *Final CAD Design Project*
-  
-    [Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
+    <br>[Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
     [Slides](/static/ppt/gears.ppt){: .btn}
-    [Poster](/static/poster/FinalPoster.pdf){: .btn}
+    [Poster](/static/poster/FinalPoster.pdf){: .btn} <br><br><br><br>
 
 
 
@@ -112,21 +112,20 @@ title: Selected Projects
 
 - **Analysis of the Strength of Wind Turbine Towers Under Aerodynamic Loads**  
   **Emmanuel AF Mompremier**
-
-     ![towers](static/img/towers.jpg)
-
-
-   *The study uses Finite Element Analysis to model 6 different types of wind turbine towers and assess their performance under a given set of loads. The finite 
+  <br>*The study uses Finite Element Analysis to model 6 different types of wind turbine towers and assess their performance under a given set of loads. The finite 
    element models of these 10m-tall towers are analyzed using ABAQUS. Comparison of the deformations, stresses and stability under rotor excitation indicate that the 
    conical steel towers can achieve the best structural performance.*  
-  [Paper](static/pdf/towers_paper.pdf){: .btn}
+  <br>[Paper](static/pdf/towers_paper.pdf){: .btn}
+  <br>![towers](static/img/towers.jpg) <br><br><br><br>
+
+
 
 
 - **Green Buildings: A Major Step Toward Energetic Sustainability**  
   **Emmanuel AF Mompremier**  
-    *This work points out the threats that buildings and cities pose to the environment in terms of energy consumption and pollution. The report investigates the 
+    <br>*This work points out the threats that buildings and cities pose to the environment in terms of energy consumption and pollution. The report investigates the 
     characteristics of green buildings and their promise to facilitate environmental sustainability.*  
-  [Report](static/pdf/Green_Buildings_Report.pdf){: .btn}
+  <br>[Report](static/pdf/Green_Buildings_Report.pdf){: .btn}<br><br><br><br>
   
 
 - **Cultura Pop Espanola: Las Funciones del Rap**  
