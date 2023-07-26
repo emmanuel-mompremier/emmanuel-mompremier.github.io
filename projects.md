@@ -115,7 +115,7 @@ title: Selected Projects
   <br>*The study uses Finite Element Analysis to model 6 different types of wind turbine towers and assess their performance under a given set of loads. The finite 
    element models of these 10m-tall towers are analyzed using ABAQUS. Comparison of the deformations, stresses and stability under rotor excitation indicate that the 
    conical steel towers can achieve the best structural performance.*  
-  <br>[Paper](static/pdf/towers_paper.pdf){: .btn}
+   [Paper](static/pdf/towers_paper.pdf){: .btn}
   <br>![towers](static/img/towers.jpg) <br><br><br><br>
 
 
@@ -123,9 +123,9 @@ title: Selected Projects
 
 - **Green Buildings: A Major Step Toward Energetic Sustainability**  
   **Emmanuel AF Mompremier**  
-    <br>*This work points out the threats that buildings and cities pose to the environment in terms of energy consumption and pollution. The report investigates the 
+    *This work points out the threats that buildings and cities pose to the environment in terms of energy consumption and pollution. The report investigates the 
     characteristics of green buildings and their promise to facilitate environmental sustainability.*  
-  <br>[Report](static/pdf/Green_Buildings_Report.pdf){: .btn}<br><br><br><br>
+    [Report](static/pdf/Green_Buildings_Report.pdf){: .btn}<br><br><br><br>
   
 
 - **Cultura Pop Espanola: Las Funciones del Rap**  
