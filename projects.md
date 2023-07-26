@@ -43,6 +43,7 @@ title: Selected Projects
     the electricity purchased to operate the charging station and the penalty incurred to the EV owners if their desired state of charge at departure time is not 
     met. The electricity used in the microgrid can come from the main grid or from PV panels or from both. Additionally, there is a limit on the power that can be 
     imported from or exported to the grid. To design the charging station's controller, the problem is modelled as as a MILP optimization with constraints.*
+  
   [Report](static/pdf/Operational_Planning_Report.pdf){: .btn}
   [Code](https://github.com/emmanuel-mp/operational-planing-charging-pool){: .btn}
   
@@ -103,6 +104,7 @@ title: Selected Projects
 - **3D Design of an Aircraft Carrier**  
   **Emmanuel AF Mompremier**    
     *Final CAD Design Project*
+  
     [Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
     [Slides](/static/ppt/gears.ppt){: .btn}
     [Poster](/static/poster/FinalPoster.pdf){: .btn}
