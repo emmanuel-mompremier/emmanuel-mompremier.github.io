@@ -1,102 +1,56 @@
 ---
-layout: page
-title: Talks
+layout: default
+title: Miscellaneous
 ---
 
 Here is a list of my talks and presentations (including presenting work by other authors in reading groups):
 
-- **FLASH Attention**
-  [Slides](/static/ppt/flash_attention.pdf){: .btn}  
-  *Speech Technologies Reading Group*  
-  April 14, 2023
+<b>Honors</b><br><br>
 
-- **Target Speaker Methods for Speech Recognition**
-  [Slides](/static/ppt/clsp_seminar_tsasr.pdf){: .btn}  
-  *CLSP Seminar*  
-  March 27, 2023
+<ul>
+	<li><i>Sep 2021:</i> Erasmus Mundus Scholarship
+	</li><br>
 
-- **Training RNN-T models without memory bottleneck**
-  [Slides](/static/ppt/transducer_memory_reading_group.pdf){: .btn}  
-  *Speech Technologies Reading Group*  
-  October 14, 2022
+	<li><i>Jul 2021:</i> Academic Achievement Award by National Taiwan University (top 5%)
+	</li><br>
 
-- **GBO presentation**
-  [Slides](/static/ppt/gbo_presentation.pdf){: .btn}  
-  *Malone 228* (May 04, 2022)
+ 	<li><i>Jun 2021:</i> National InterCollegiate Soccer Championship (2020, 2021)
+	</li><br>
 
-- **Overlap-aware Speaker Diarization: Methods and Ensembles**  
-  *ISCA SIG-ML Seminar* (May 05, 2021): [Video](https://www.youtube.com/watch?v=SHWNqU9g_hU){: .btn} [Slides](/static/ppt/isca_sigml_desh.pdf){: .btn}  
-  *CLSP Seminar* (January 29, 2021): [Slides](/static/ppt/clsp_seminar_talk.pdf){: .btn}  
+  	<li><i>Feb 2018:</i> Outstanding Chinese Writing Skills Award 
+	</li><br>
 
-- **TS-ASR: Speaker Beam and Voice Filter**
-  [Slides](/static/ppt/ts_asr_reading_group.pdf){: .btn}  
-  *Speech Technologies Reading Group*  
-  October 02, 2020
+   	<li><i>Sep 2017:</i> MOFA Taiwan Scholarship 
+	</li><br>
+ </ul>
 
-- **Informed Target Speaker ASR** 
-	[Slides](/static/ppt/jsalt_final.pdf){: .btn}  
-	*JSALT 2020 Closing Presentation*  
-	August 06, 2020 
 
-- **Target Speaker - Voice Activity Detection**
-	[Paper](https://arxiv.org/abs/2005.07272){: .btn} 
-	[Slides](/static/ppt/ts-vad.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	May 29, 2020 
+<b>Leadership</b><br><br>
 
-- **The JHU Multi-Microphone Multi-Speaker ASR System for the CHiME-6 Challenge**
-	[Video](https://www.youtube.com/watch?v=BLK8YFNk7is&feature=youtu.be){: .btn}
-	[Slides](/static/ppt/chime6_slides.pdf){: .btn}   
-	*CHiME-6 Virtual Workshop*    
-	May 04, 2020
+<ul>
+	<li> Student Ambassador at National Taiwan University, NTU (2019 - 2021). Check out their website <a href="https://oia.ntu.edu.tw/en/internationalstudents/activities/oncampusintexperience/studentambassador"> [url]</a> and Facebook Page<a href="https://www.facebook.com/NTUOIASA"> [fb]</a>
+	</li><br>
 
-- **CLSP Seminar Lightning Talk**
-	[Slides](/static/ppt/lightning_talk.pdf){: .btn}   
-	*CLSP Seminar*  
-	April 03, 2020
+	<li>Advisory Board Member at National Taiwan University Student Association, Department of International Affairs (2019 - 2020)
+	</li><br>
 
-- **Imputer: Sequence Modeling via Imputation and Dynamic Programming**
-	[Paper](https://arxiv.org/pdf/2002.08926.pdf){: .btn} 
-	[Slides](/static/ppt/imputer.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Barton 225, 3101 Wyman Park Dr, Baltimore  
-	March 06, 2020 
+ 	<li>Volunteer at International Companion for Learning<a href="https://icl.tw/index/about">  ICL </a>  (2017 & 2021)
+	</li><br>
 
-- **Transformer ASR with Contextual Block Processing**
-	[Paper](https://arxiv.org/pdf/1910.07204.pdf){: .btn} 
-	[Slides](/static/ppt/transformer_asr_contextual.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Hackerman 320, 3101 Wyman Park Dr, Baltimore  
-	November 04, 2019 
+ </ul>
+ 
 
-- **Joint CTC-Attention for ASR using Multi-task Learning**
-	[Paper](https://arxiv.org/pdf/1609.06773.pdf){: .btn} 
-	[Slides](/static/ppt/joint_ctc_attention.pdf){: .btn}  
-	*Information Extraction Lightning Talk*  
-	Hackerman 320, 3101 Wyman Park Dr, Baltimore  
-	May 02, 2019 
+ <b>In the Press</b><br><br>
 
-- **Contrastive Predictive Coding**
-	[Paper](https://arxiv.org/pdf/1807.03748.pdf){: .btn} 
-	[Slides](/static/ppt/contrastive_predictive_coding.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Barton 225, 3101 Wyman Park Dr, Baltimore  
-	April 29, 2019  
+<ul>
+	<li>Featured in <a href="https://densys.univ-lorraine.fr/"> DENSYS </a>  Introduction Video, 2021 <a href="https://www.youtube.com/watch?v=CPq6vBX1jnY"> [video in French] </a>
+	</li><br>
 
-- **Dataset Shift in NLP**
-	[Paper](https://homepages.inf.ed.ac.uk/amos/publications/Storkey2009TrainingTestDifferent.pdf){: .btn} 
-	[Slides](/static/ppt/dataset_shift.pdf){: .btn}  
-	*NLP Reading Group*  
-	Hackerman 306, 3101 Wyman Park Dr, Baltimore  
-	April 17, 2019 
+	<li>My journey as an international student in Taiwan, 2021 <a href="http://www.me.ntu.edu.tw/epaper/20210331/News_Photo_Content_n_44369_s_76630.html">  [article in mandarin] </a>
+	</li><br>
 
-- **Attention-based Models for ASR**
-	[Paper](https://arxiv.org/pdf/1508.01211.pdf){: .btn} 
-	[Slides](/static/ppt/attention_models_asr.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Barton 225, 3101 Wyman Park Dr, Baltimore  
-	March 11, 2019  
+ 	<li>ITRI Reader's Choice Award (Best Tech Review Article), 2020 <a href="https://itritoday.itri.org/100/content/en/unit_02-2.html"> [article] </a>
+	</li><br>
 
-<br /> 
-
+ </ul>
 
