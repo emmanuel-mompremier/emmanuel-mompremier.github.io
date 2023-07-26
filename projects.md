@@ -70,11 +70,12 @@ title: Selected Projects
   **Emmanuel AF Mompremier**, Bismark Razak Haruna, Olamilekan Olugbayila, Soroush Rostami
 
   
-![mining](static/img/mining.jpg)
+    ![mining](static/img/mining.jpg)
   
-  *This paper investigates cobalt mining in the Democratic Republic of Congo and develops a detailed map of all factors playing a role in the
-country’s mineral curse. The implications of the cobalt controversy in DRC and potential impacts on the world at large in the push for green energy as an alternative to fossils are also discussed.*  
-  [Report](static/pdf/mining_report.pdf){: .btn}
+    *This paper investigates cobalt mining in the Democratic Republic of Congo and develops a detailed map of all factors playing a role in the
+     country’s mineral curse. The implications of the cobalt controversy in DRC and potential impacts on the world at large in the push for green energy as an 
+   alternative to fossils are also discussed.*  
+   [Report](static/pdf/mining_report.pdf){: .btn}
   
   
 
@@ -86,19 +87,25 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
 - **A Renewable Energy Community: Technical and Behavioural Design of a Self-Sufficient System**  
   **Emmanuel AF Mompremier**, Pierfrancesco Losi, Sthefi Klaus, Yuanlu Li, Jana Dundure
 
-![energyplus](static/img/energyplus.jpg)
+    ![energyplus](static/img/energyplus.jpg)
     
-  *Design of an energy system (generation, storage, smart monitoring system) that covers the entire need of a self-sufficient renewable energy community of 11 households located in the suburbs of Metz (northeast of France). That community aims to mobilize citizens toward energy transition and improve the flexibility of the electricity system. The project intends to make it possible for such communities to collectively produce, store, consume and monitor their energy effectively. The energy system proposed should allow the inhabitants to be as autonomous as possible in the management of their energy system and energy consumption, and therefore to no longer be dependent on energy suppliers. Furthermore, the proposal should ensure that the system is usable and performs well by integrating user needs and behaviors in the design. Energy+, implemented in the project, is an app to help the users know how their energy is spent and how they can reach their monthly sustainability goal by decreasing their consumption with suitable measures such as energy planning.*  
+   *Design of an energy system (generation, storage, smart monitoring system) that covers the entire need of a self-sufficient renewable energy community of 11 
+   households located in the suburbs of Metz (northeast of France). That community aims to mobilize citizens toward energy transition and improve the flexibility of 
+   the electricity system. The project intends to make it possible for such communities to collectively produce, store, consume and monitor their energy effectively. 
+   The energy system proposed should allow the inhabitants to be as autonomous as possible in the management of their energy system and energy consumption, and 
+   therefore to no longer be dependent on energy suppliers. Furthermore, the proposal should ensure that the system is usable and performs well by integrating user 
+   needs and behaviors in the design. Energy+, implemented in the project, is an app to help the users know how their energy is spent and how they can reach their 
+   monthly sustainability goal by decreasing their consumption with suitable measures such as energy planning.*  
   [Report](static/pdf/energyplus_report.pdf){: .btn}
   [Demonstration Video](https://www.youtube.com/watch?v=hNCByKByH54){: .btn}
 
 
 - **3D Design of an Aircraft Carrier**  
   **Emmanuel AF Mompremier**    
-  *Final CAD Design Project*
-  [Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
-  [Slides](/static/ppt/gears.ppt){: .btn}
-  [Poster](/static/poster/FinalPoster.pdf){: .btn}
+    *Final CAD Design Project*
+    [Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
+    [Slides](/static/ppt/gears.ppt){: .btn}
+    [Poster](/static/poster/FinalPoster.pdf){: .btn}
 
 
 
@@ -111,21 +118,24 @@ country’s mineral curse. The implications of the cobalt controversy in DRC and
 - **Analysis of the Strength of Wind Turbine Towers Under Aerodynamic Loads**  
   **Emmanuel AF Mompremier**
 
-![towers](static/img/towers.jpg)
+     ![towers](static/img/towers.jpg)
 
 
-  *The study uses Finite Element Analysis to model 6 different types of wind turbine towers and assess their performance under a given set of loads. The finite element models of these 10m-tall towers are analyzed using ABAQUS. Comparison of the deformations, stresses and stability under rotor excitation indicate that the conical steel towers can achieve the best structural performance.*  
+   *The study uses Finite Element Analysis to model 6 different types of wind turbine towers and assess their performance under a given set of loads. The finite 
+   element models of these 10m-tall towers are analyzed using ABAQUS. Comparison of the deformations, stresses and stability under rotor excitation indicate that the 
+   conical steel towers can achieve the best structural performance.*  
   [Paper](static/pdf/towers_paper.pdf){: .btn}
 
 
 - **Green Buildings: A Major Step Toward Energetic Sustainability**  
   **Emmanuel AF Mompremier**  
-  *This work points out the threats that buildings and cities pose to the environment in terms of energy consumption and pollution. The report investigates the characteristics of green buildings and their promise to facilitate environmental sustainability.*  
+    *This work points out the threats that buildings and cities pose to the environment in terms of energy consumption and pollution. The report investigates the 
+    characteristics of green buildings and their promise to facilitate environmental sustainability.*  
   [Report](static/pdf/Green_Buildings_Report.pdf){: .btn}
   
 
 - **Cultura Pop Espanola: Las Funciones del Rap**  
  **Emmanuel AF Mompremier**   
-  *Clase de Literatura Espanola*  
+    *Clase de Literatura Espanola*  
   [Video](https://youtu.be/AgOV49G6VGo){: .btn}
 
