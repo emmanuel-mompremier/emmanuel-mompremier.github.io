@@ -12,6 +12,7 @@ title: Selected Projects
   **Emmanuel AF Mompremier**
     <br>*This thesis proposes a 6-step methodology to digitalize complex manufacturing processes such as battery cell production from data creation to data storage and tackle limitations to successful implementation of data analytics solutions such as lack of data acquisition, poor data quality and scarcity of usable data.*
     <br>[Slides](static/pdf/Thesis_Presentation.pdf){: .btn}
+    <br>[Thesis](static/pdf/Emmanuel_AF_Mompremier_MScThesis.pdf){: .btn}
     <br>![methodology](static/img/methodology.jpg)<br><br><br><br>
 
    
@@ -26,7 +27,7 @@ title: Selected Projects
       <br>*This project involves the design of DMSystems, a fast-response demand-management system capable of coping with unexpected reductions in power generation availability and guarding against unforeseen power outages. DMSystems can deliver on the technical requirement of responding to an electrical fault observed through a reduction in grid frequency below the desired threshold with a roundtrip response time of 10 milliseconds.*
   <br>[Report](static/pdf/Challenge_Based_Module_Report.pdf){: .btn}
   [Slides](static/pdf/CBM_Final_Presentation.pdf){: .btn}
-  [Demonstration Video]([static/pdf/CBM_Final_Presentation.pdf](https://www.youtube.com/watch?v=oFLpF7w5C1g)){: .btn}
+  [Demonstration Video](https://www.youtube.com/watch?v=oFLpF7w5C1g){: .btn}
   <br>![dmsystems](static/img/dmsystems.jpg)<br><br><br><br>
 
    
@@ -94,17 +95,6 @@ title: Selected Projects
     
 
 
-
-- **3D Design of an Aircraft Carrier**  
-  **Emmanuel AF Mompremier**    
-    *Final CAD Design Project*
-    <br>[Video](https://www.youtube.com/watch?v=Fx6K5C6MVKo){: .btn}
-    [Slides](/static/ppt/gears.ppt){: .btn}
-    [Poster](/static/poster/FinalPoster.pdf){: .btn}
-  <br>![carrier](static/img/carrier.jpeg) <br><br><br><br>
-
-
-
 <hr style="height:4px;border-width:0;color:blue;background-color:gray">
 
 
@@ -128,9 +118,4 @@ title: Selected Projects
     characteristics of green buildings and their promise to facilitate environmental sustainability.*  
     [Report](static/pdf/Green_Buildings_Report.pdf){: .btn}<br><br><br><br>
   
-
-- **Cultura Pop Espanola: Las Funciones del Rap**  
- **Emmanuel AF Mompremier**   
-    *Clase de Literatura Espanola*  
-  [Video](https://youtu.be/AgOV49G6VGo){: .btn}
 
