@@ -12,7 +12,7 @@ title: Selected Projects
   **Emmanuel AF Mompremier**
     <br>*This thesis proposes a 6-step methodology to digitalize complex manufacturing processes such as battery cell production from data creation to data storage and tackle limitations to successful implementation of data analytics solutions such as lack of data acquisition, poor data quality and scarcity of usable data.*
     <br>[Slides](static/pdf/Thesis_Presentation.pdf){: .btn}
-    <br>[Thesis](static/pdf/Emmanuel_AF_Mompremier_MScThesis.pdf){: .btn}
+    [Thesis](static/pdf/Emmanuel_AF_Mompremier_MScThesis.pdf){: .btn}
     <br>![methodology](static/img/methodology.jpg)<br><br><br><br>
 
    
@@ -39,8 +39,7 @@ title: Selected Projects
   **Emmanuel AF Mompremier**, P. Losi, O. Olugbayila, Y. Li
       <br>*The challenge is to devise a strategy for charging a pool of electric vehicles in an industrial-like microgrid by minimizing a trade-off between the costs 
       of the electricity purchased to operate the charging station and the penalty incurred to the EV owners if their desired state of charge at departure time is not met. The electricity used in the microgrid can come from the main grid or from PV panels or from both. Additionally, there is a limit on the power that can be imported from or exported to the grid. To design the charging station's controller, the problem is modelled as as a MILP optimization with constraints.*
-  <br>[Report](static/pdf/Operational_Planning_Report.pdf){: .btn}
-  [Code](https://github.com/emmanuel-mp/operational-planing-charging-pool){: .btn}
+  <br>[Code](https://github.com/emmanuel-mp/operational-planing-charging-pool){: .btn}
   <br>![charging](static/img/charging.jpg)<br><br><br><br>
   
 
