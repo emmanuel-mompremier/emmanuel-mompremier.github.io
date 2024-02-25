@@ -30,6 +30,17 @@ title: Selected Projects
   [Demonstration Video](https://www.youtube.com/watch?v=oFLpF7w5C1g){: .btn}
   <br>![dmsystems](static/img/dmsystems.jpg)<br><br><br><br>
 
+
+
+
+
+- **Energy System Modelling - Case of The Netherlands**  
+  **Emmanuel AF Mompremier**, G. Andrean, P. García, H. Costabile, N. Jabłońska
+    <br>*The work investigates strategies, policies, regulations and trends that can shed light on the future of the energy systems in The Netherlands. To carry out this analysis, a study was initially done over the main historical facts that brought The Netherlands to its current path towards climate neutrality, as well as relevant recent events that influence it. Following this, the openENTRANCE tool was used, which allowed access to projections of different parameters in four given scenarios. The data was then crossed to suggest relevant indicators that can contribute to the understanding of potential consequences and future effects for the country on its journey to a net-zero reality.*
+    <br>[Report](static/pdf/Project_Report_Netherlands.pdf){: .btn}
+    <br>![Netherlands](static/img/Netherlands.jpg)<br><br><br>
+
+
    
 <hr style="height:4px;border-width:0;color:blue;background-color:gray">
 
